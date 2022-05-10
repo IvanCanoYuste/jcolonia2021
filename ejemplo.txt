@@ -1,1 +1,2 @@
 Archivo principal de git
+línea de texto 1
